@@ -1,16 +1,10 @@
 🎓 Student on CEUB in Computer Science
 
 
-🌐 HTML5,CSS3,ReactJS,NodeJs(Express) C, C++,Python.
-
-
-JavaScript Node JS
+🌐 HTML5,CSS3,ReactJS,NodeJs(Express) C, C++,Python, Javascript and Node JS.
 
 
 📧 Contact: pedrokleinsm@gmail.com
-
-
-
 📮 Linkedin: https://www.linkedin.com/in/pedro-klein1/
 
 
