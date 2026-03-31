@@ -1,4 +1,4 @@
-🎓 Estudante de CIência da Computação
+🎓 Estudante de CIência da Computação - 
     6° Semestre no CEUB
 
 
@@ -8,5 +8,5 @@
 📧 Contact: pedrokleinsm@gmail.com
 📮 Linkedin: https://www.linkedin.com/in/pedro-klein1/
 
-Full Stack
+Full Stack - 
 Ciência de Dados
